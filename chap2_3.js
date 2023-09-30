@@ -7,7 +7,7 @@ sizeCalc = size / 2;
 
 function chessboard(sizeCalc) {
     for (i = 0; i < sizeCalc; i++) {
-        lineOne += ' #'
+        lineOne += ' #';
     }
     
     for (i = 0; i < sizeCalc; i++) {
